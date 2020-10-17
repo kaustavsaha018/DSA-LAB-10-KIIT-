@@ -1,0 +1,8 @@
+Q1.WAP to input an infixexpression and evaluate it. Before evaluate you have to convert it
+into postfix expression.
+
+Q2.WAP to implement 3 stacks using array on a single array. If the size of each stack is 5 
+then declare a single array of size 15. Then the index for stack-0 will be 0-4,stack-1 will 
+be 5-9 adn stack-2 will be 10-14. Implement single push and pop function with the following 
+prototype void push(int stack_no, int element); int pop(stack_no). Declare 3 separate stack 
+variable for each stack.
